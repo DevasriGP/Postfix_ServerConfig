@@ -53,9 +53,4 @@ Configured Postfix to route outbound emails via SendGrid:
 * No service disruption
 * Verified mail delivery
 
----
-
-## Author
-
-Devasri GP
 

@@ -8,12 +8,6 @@ It includes structured steps, validation, and rollback planning.
 
 ---
 
-## Project Structure
-
-postfix-sendgrid-integration/
-└── change-request.md
-
----
 
 ## What This Project Covers
 
